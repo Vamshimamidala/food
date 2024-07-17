@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+.hero{
+     
+    position: fixed;
+    width: 100%; 
+}
+.bg11{
+    background-image: url(images/Bg.webp);
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+}
+.dash{
+    padding: 20px;
+    text-align: center;
+}
+.dash h1{
+    color: red;
+}
+.crave{
+    padding: 10px;
+    text-align: center;
+}
+.crave img{
+    padding: 10px;
+    border-radius: 100px;
+}
+.crave h2{
+    color: brown;
+}
+.pass{
+    padding: 10px 30px;
+    text-align: center;
+}
+.pass img{
+    border-radius: 75px;
+}
+.pass h1{
+    color: aqua;
+}
+.bg2{
+    background-image: url(images/bg2.avif);
+    text-align: center;
+    padding: 15px 15px;
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+    
+}
+
+.bg2 h1{
+    color: crimson;
+}
+.store{
+    padding: 20px 20px;
+    text-align: center;
+}
+.store img{
+    border-radius: 80%;
+}
+.store h1{
+    color: blue;
+    text-align: end;
+}
+.help{
+    text-align: center;
+    padding: 10px 10px;
+}
+.help img{
+padding: 30px 30px;
+}
+.rest{
+    padding:10px 15px;
+    text-align: center;
+}
+.rest img{
+    padding: 30px 30px;
+}
+.rest h1{
+    color:red;
+}
+.lock{
+    padding: 15px 20px;
+    text-align: center;
+}
+.lock img{
+    padding: 30px 30px;
+}
+.lock p{
+    color: darkkhaki;
+}
+.grow{
+    padding:20px 20px;
+}
+.grow img{
+    border-radius: 25px;
+}
+.grow h1{
+    color: teal;
+}
